@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "conversa-public": {
+      "type": "http",
+      "url": "https://conversa-plugin-production.up.railway.app/public/mcp"
+    }
+  }
+}

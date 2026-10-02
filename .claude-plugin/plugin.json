@@ -1,0 +1,21 @@
+{
+  "name": "conversa-enquiry-assistant",
+  "displayName": "Conversa Workflow Automation",
+  "version": "0.1.0",
+  "description": "Run structured real-estate enquiry workflows from pasted listings, sample property data, or an explicitly consented Conversa demonstration.",
+  "author": {
+    "name": "SME Analytica",
+    "url": "https://c.smeanalytica.com/"
+  },
+  "homepage": "https://conversa-plugin-production.up.railway.app/docs",
+  "documentationUrl": "https://conversa-plugin-production.up.railway.app/docs",
+  "supportUrl": "https://c.smeanalytica.com/contact",
+  "privacyPolicyUrl": "https://conversa-plugin-production.up.railway.app/privacy",
+  "termsOfServiceUrl": "https://c.smeanalytica.com/legal/terms",
+  "keywords": [
+    "real-estate",
+    "enquiries",
+    "property",
+    "multilingual"
+  ]
+}
