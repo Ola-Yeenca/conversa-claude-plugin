@@ -8,10 +8,7 @@
     "url": "https://c.smeanalytica.com/"
   },
   "homepage": "https://conversa-plugin-production.up.railway.app/docs",
-  "documentationUrl": "https://conversa-plugin-production.up.railway.app/docs",
-  "supportUrl": "https://c.smeanalytica.com/contact",
-  "privacyPolicyUrl": "https://conversa-plugin-production.up.railway.app/privacy",
-  "termsOfServiceUrl": "https://c.smeanalytica.com/legal/terms",
+  "icon": "./.claude-plugin/icon.png",
   "keywords": [
     "real-estate",
     "enquiries",
