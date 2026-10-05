@@ -13,7 +13,7 @@ The bundle connects to one anonymous remote MCP server:
 - [Conversa website](https://c.smeanalytica.com/)
 - [Support](https://c.smeanalytica.com/contact)
 
-The connector is deployed and its public overview, documentation, privacy notice, and favicon are reachable. This repository is public, but its Claude directory draft has not been submitted or approved.
+The connector is deployed and its public overview, documentation, privacy notice, and favicon are reachable. This repository is public. Directory submission, review, approval, and publication are separate provider states and should be checked in the Claude directory portal.
 
 ## Local validation
 
@@ -25,6 +25,10 @@ claude plugin validate .
 
 The repository contains only the public plugin manifest, branded directory icon, public MCP reference, skill, and this README. It contains no backend source, credentials, private agency configuration, or customer data.
 
+## Security reports
+
+Report a suspected security vulnerability through the [SME Analytica support page](https://c.smeanalytica.com/contact). Include the plugin version and affected tool, but do not include credentials, phone numbers, customer data, or an active consent capability.
+
 ## License
 
-No license has been selected or granted for this repository. SME Analytica retains all rights unless it adds an explicit license later.
+The scoped MIT license in [`LICENSE`](LICENSE) applies only to `.claude-plugin/plugin.json`, `.mcp.json`, `skills/conversa-enquiry/SKILL.md`, and this `README.md`. Conversa and SME Analytica names, trademarks, logos, icons, other brand assets, the MCP runtime and backend, the browser demo, and all other source remain outside that grant.
